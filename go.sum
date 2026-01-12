@@ -1,0 +1,5 @@
+github.com/go-anyway/framework-log v1.0.0/go.mod h1:cyD0P8YrmkmjVpiurV+cf8ieRXjJAo0AuPZ9GCmh4B8=
+github.com/go-anyway/framework-metrics v1.0.0/go.mod h1:KfMLGyPfivv+688baFKYfJ2OJ2xlkpOob5ui4/oRI/U=
+github.com/go-anyway/framework-trace v1.0.0/go.mod h1:/tuFEKpXTdbHVgtXNw6rX0M5FNy6C6yCA6xZH51dn7U=
+github.com/go-basic/ipv4 v1.0.0/go.mod h1:etLBnaxbidQfuqE6wgZQfs38nEWNmzALkxDZe4xY8Dg=
+github.com/xxl-job/xxl-job-executor-go v1.2.0/go.mod h1:bUFhz/5Irp9zkdYk5MxhQcDDT6LlZrI8+rv5mHtQ1mo=

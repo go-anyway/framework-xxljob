@@ -9,8 +9,3 @@ require (
 	github.com/xxl-job/xxl-job-executor-go v1.2.0
 )
 
-replace (
-	github.com/go-anyway/framework-log => ../core/log
-	github.com/go-anyway/framework-metrics => ../metrics
-	github.com/go-anyway/framework-trace => ../trace
-)
